@@ -1,2 +1,1 @@
-# Scientific_Calculator_with_Python
-read README file
+Our scientific calculator can calculate sine, cosine, tangent,cotangent, degrees, logarithms, natural logarithms, and factorialusing the math library. Additionally, it can perform basicarithmetic operations, exponentiation, and square rootcalculations. We also added a digital clock using the 'time' libraryto our project. Finally, we enhanced our project by adding a userinterface using the tkinter library, making it more user-friendly.
